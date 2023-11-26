@@ -1,0 +1,15 @@
+.nav {
+    grid-area: n;
+    background-color: bisque;
+    padding: 20px;
+}
+
+.item a {
+    color: #fff;
+    font-size: 26px;
+    text-decoration: none;
+}
+.item a:active,
+.item a:focus {
+    color: red;
+}
